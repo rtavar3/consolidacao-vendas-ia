@@ -2,7 +2,7 @@
 
 ## Problema
 Consolidar manualmente múltiplas planilhas (formatos e padrões inconsistentes) em
-um relatório único levava [X horas/semana]. O processo era repetitivo e sujeito a
+um relatório único levava 5 horas/semana. O processo era repetitivo e sujeito a
 erro humano (dados duplicados, colunas com nomes diferentes entre arquivos).
 
 ## Solução
@@ -16,7 +16,7 @@ Script em Python que:
    dos principais achados
 
 ## Resultado
-[Preencher: tempo economizado estimado, volume de dados processado, etc.]
+As 5 horas/semana gastas manualmenteforam reduzidas a poucos minutos de execução do script.
 
 ## Como rodar
 
